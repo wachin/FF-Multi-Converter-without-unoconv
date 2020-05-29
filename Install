@@ -1,0 +1,12 @@
+
+=========================
+INSTALLATION INSTRUCTIONS
+=========================
+
+Simple enough:
+
+dpkg -b tmpdir ffmulticonverter_1.7.3_all.deb
+
+==========
+
+God Bless

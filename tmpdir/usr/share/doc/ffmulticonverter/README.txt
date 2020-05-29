@@ -1,4 +1,4 @@
-FF Multi Converter without unoconv
+FF Multi Converter
 ====================
 
 FF Multi Converter is a simple graphical application which enables you to
@@ -16,6 +16,7 @@ Optional dependencies
 ----------------------
 ffmpeg or libav
 imagemagick
+unoconv
 
 The program does NOT require the optional dependencies to run.
 e.g. you can run the application even if you don't have ImageMagick installed,
